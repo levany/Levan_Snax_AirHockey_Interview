@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - puck
+  - BlueGoal
+  - RedGoal
+  - Goal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Stage
+  - 
+  - 
+  - 
+  - Ground
+  - Forground
+  - HUD
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 447947903
+    locked: 0
+  - name: Particles
+    uniqueID: 1050248063
+    locked: 0
+  - name: 
+    uniqueID: 2904824671
+    locked: 0
+  - name: 
+    uniqueID: 958233739
+    locked: 0
+  - name: WorldObjects
+    uniqueID: 3066277831
+    locked: 0
+  - name: Foreground
+    uniqueID: 149171393
+    locked: 0
+  - name: HUD
+    uniqueID: 524745747
+    locked: 0
